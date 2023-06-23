@@ -1,4 +1,6 @@
-"Code is the language that brings ideas to life, and Visual Studio is the canvas that empowers developers to paint masterpieces of innovation and efficiency."
+# Visual Studio Enterprise or Professional -Keys
+
+# "Code is the language that brings ideas to life, and Visual Studio is the canvas that empowers developers to paint masterpieces of innovation and efficiency."
 
 Microsoft Visual Studio Enterprise 2022 Activation Key
 
